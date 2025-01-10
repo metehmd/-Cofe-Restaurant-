@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>کافه من</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>به کافه من خوش آمدید!</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">خانه</a></li>
+                    <li><a href="#">منو</a></li>
+                    <li><a href="#">درباره ما</a></li>
+                    <li><a href="#">تماس با ما</a></li>
+                    <li><a href="#">سفارش آنلاین</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>بهترین قهوه‌ها را در کافه ما تجربه کنید!</h2>
+            <p>کافه من با بهترین و باکیفیت‌ترین نوشیدنی‌ها آماده خدمت‌رسانی به شماست.</p>
+            <a href="#" class="btn">درباره ما بیشتر بدانید</a>
+        </section>
+
+        <section class="menu">
+            <h2>منو</h2>
+            <ul>
+                <li>قهوه اسپرسو - ۲۰,۰۰۰ تومان</li>
+                <li>چای سبز - ۱۵,۰۰۰ تومان</li>
+                <li>دسر شکلاتی - ۳۰,۰۰۰ تومان</li>
+            </ul>
+        </section>
+
+        <section class="about">
+            <h2>درباره کافه من</h2>
+            <p>کافه من با هدف فراهم آوردن یک محیط دنج و دوستانه به همراه نوشیدنی‌های با کیفیت و طعمی بی‌نظیر تاسیس شده است.</p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2025 کافه من | تمامی حقوق محفوظ است.</p>
+    </footer>
+
+</body>
+</html>
